@@ -12,7 +12,7 @@
 🌍 I've worked with clients from USA, KSA, Australia, and Canada — delivering everything from simple landing pages to full SaaS platforms.
 
 📫 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/usman-ahmad-it-consultant/) | [Portfolio](https://your-portfolio-link.com) | usman.ahmad@example.com
+[LinkedIn](https://www.linkedin.com/in/usman-ahmad-it-consultant/) | usmanahmad4@gmail.com
 
 🛠️ Tools & Technologies:  
 `WordPress`, `PHP`, `JavaScript`, `Liquid`, `Make.com`, `WooCommerce`, `Figma`, `CSS`, `Git`, `Elementor`
