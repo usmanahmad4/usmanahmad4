@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Usman Ahmad
 
-<!--
-**usmanahmad4/usmanahmad4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a freelance Web Developer with 6+ years of experience building scalable, responsive, and conversion-optimized websites.
 
-Here are some ideas to get you started:
+🚀 I specialize in:
+- WordPress Theme Development & Customization
+- Shopify Store Setup and Liquid Customizations
+- Figma to WordPress/HTML Conversions
+- Website Optimization (Speed, SEO, Mobile UX)
+- Make.com Integrations & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I've worked with clients from USA, KSA, Australia, and Canada — delivering everything from simple landing pages to full SaaS platforms.
+
+📫 Let's connect:  
+[LinkedIn](https://www.linkedin.com/in/usman-ahmad-it-consultant/) | [Portfolio](https://your-portfolio-link.com) | usman.ahmad@example.com
+
+🛠️ Tools & Technologies:  
+`WordPress`, `PHP`, `JavaScript`, `Liquid`, `Make.com`, `WooCommerce`, `Figma`, `CSS`, `Git`, `Elementor`
+
+---
+> “Fantastic working with Usman. Went above and beyond with his work and support.” – Client Review
